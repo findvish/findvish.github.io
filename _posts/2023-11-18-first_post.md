@@ -1,4 +1,4 @@
-# DL for Coders with fastai & PyTorch Part I (Ch1-3) Notes
+# DL for Coders with fastai \& PyTorch Part I (Ch1-3) Notes
 In this series of posts, I intend to highlight the important parts that I came across in Jeremy Howards ML book. He wrote the book to accompany the online course 'Practical Deep Learning for Coders' that is posted on [course.fast.ai](https://course.fast.ai) page.
 
 My posts will not address every aspect of what is covered in the book but will rather aim to highlight those that I think are either interesting or worth paying close attention to.
@@ -19,3 +19,4 @@ Here is an example of bias. Historically Black names received advertisements sug
 
 ### Why does this matter?
 Everybody who is training models *absolutely* needs to consider how their models will be used, and consider how to best ensure that they are used as positively as possible. There are things you can do. And if you don’t do them, things can go pretty badly.
+**Means** should be never more important than the ends. So don't be a blind technocrat blinded by the invigorating nature of technical accomplishments or the profits to be made. Give thought to whether goals are being achieved at the expense of the society at large.
