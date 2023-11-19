@@ -1,7 +1,7 @@
 # DL for Coders with fastai and PyTorch Part I (Ch1-3) Notes
 In this series of posts, I intend to highlight the important parts that I came across in Jeremy Howards ML book - Deep Learning for Coders with fastai and PyTorch. He wrote the book to accompany the online course 'Practical Deep Learning for Coders' that is posted on [course.fast.ai](https://course.fast.ai) page.
 
-My posts will not address every aspect of what is covered in the book but will rather aim to highlight those that I think are either interesting or worth paying close attention to.
+My posts will not address every aspect of what is covered in the book but will rather aim to highlight those parts that I think are either interesting or worth paying close attention to.
 
 
 ## Chapter 3 - Data Ethics
